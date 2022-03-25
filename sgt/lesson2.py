@@ -43,3 +43,6 @@ else:
 	
 for i in range(x):
 	print(i)
+
+for i in range(10)
+	print(i)

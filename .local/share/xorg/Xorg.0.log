@@ -540,3 +540,5 @@ See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors
 See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
 [ 22762.243] (EE) event6  - SynPS/2 Synaptics TouchPad: kernel bug: Touch jump detected and discarded.
 See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details
+[ 23163.058] (EE) event6  - SynPS/2 Synaptics TouchPad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.15.5/touchpad-jumping-cursors.html for details

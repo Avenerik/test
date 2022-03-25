@@ -1,0 +1,3 @@
+touch SOFTWARE_INSTALLED.txt
+pip
+python

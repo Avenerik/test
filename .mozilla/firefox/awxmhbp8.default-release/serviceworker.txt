@@ -1,0 +1,11 @@
+8
+
+https://linuxize.com/
+https://linuxize.com/sw.js
+true
+{5dc27cea-9ad9-4645-a3b2-9c44044f3081}
+0
+1610999664434955
+1610999664454263
+1610999661948978
+#

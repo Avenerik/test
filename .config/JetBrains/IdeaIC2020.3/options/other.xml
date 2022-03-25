@@ -1,0 +1,32 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1nFzKKgxYHXJum212xaewqeWxha">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-b4d9d08d34b47e306596a786de81c04186ac8618ca9ee1b1c51a8bcc31d3ba4c" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-203.6682.168" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.10-release-IJ6682.9" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="lastSeenTip" value="neue-ExcludeFromProject.html" />
+    <property name="lastTimeTipsWereShown" value="1611000568491" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1611000561763" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="seenTips" value="neue-ExcludeFromProject.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

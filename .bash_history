@@ -398,3 +398,123 @@ source ./sgt/bin/activate
 cd
 source ./sgt/bin/activate
 vi lesson2.py
+pwd
+cd sgt
+add lesson2.py
+git add lesson2.py
+git status
+git branch hey
+git add lesson2.py
+git status
+cd test
+ls
+git status
+nano lesson2.py
+git status
+git commit -a -m "added new line"
+source ./sgt/bin/activate
+pwd
+nano lesson2.py
+lesson2.py
+open lesson2.py
+ls -la
+chmod -x lesson2.py
+chmod +x lesson2.py
+ls -la
+./lesson2.py
+vi lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.py
+nano lesson2.py
+./lesson2.
+/lesson2.py
+./lesson2.py
+exit
+mkdir heey
+cd heey
+add lesson2.py
+git add lesson2.py
+cd
+cd /home/bootcamp
+cd bootcamp
+cd home
+cd
+add lesson2.py
+git add lesson2.py
+git status
+git commit -a -m "plus lesson"
+ls -l
+git log
+git status
+git commit -a -m "added new"
+git log
+exit() d
+q
